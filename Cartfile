@@ -1,0 +1,6 @@
+# cd Desktop/SwiftSample
+# carthage update --platform macOS
+github "SwiftyJSON/SwiftyJSON"
+
+# SwiftyJSON，JSON解析
+# github "SwiftyJSON/SwiftyJSON" == 4.0.0
