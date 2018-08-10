@@ -1,4 +1,0 @@
-framework module Toast {
-    header "Toast-Swift.h"
-    requires objc
-}
